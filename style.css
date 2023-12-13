@@ -1,0 +1,15 @@
+*{
+    text-decoration: none !important;
+}
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url(images/bg.png);
+    padding: 1% 20%;
+}
+.ltext{
+    text-shadow:2px 2px 2px  black ;
+}
+.rtext{
+    text-shadow:2px 2px 2px  black ;
+    text-align: right;
+}
